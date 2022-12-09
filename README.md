@@ -23,3 +23,6 @@ PCB with LED strips, digital thermometer.
 Fans are mounted at the back side of the box, there are holes in the box and the PCB for the air flow.
 
 Stimulus box is accompanied with set of exchangeable diaphragms with round holes of various diameters.
+
+Control box software ![jnd.ino](src/jnd.ino) allows to set color center in CIE xyY color coordinates,
+JND measurements in polar coordinates, stimuli replacement with a minimum interval of 10ms.
