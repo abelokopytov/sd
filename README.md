@@ -26,3 +26,5 @@ Stimulus box is accompanied with set of exchangeable diaphragms with round holes
 
 Control box software ![jnd.ino](src/jnd.ino) allows to set color center in CIE xyY color coordinates,
 JND measurements in polar coordinates, stimuli replacement with a minimum interval of 10ms.
+
+Additional software ![jnd.ino](src/dimmer.ino) was used for spectral measurements.
